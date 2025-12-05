@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Mad World (International Version)",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-05T03:06:54.122850Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mad World - International Version",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/01_Mad_World_-_International_Version_ONE_OK_ROCK.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mad World (International Version)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_Mad_World_(International_Version)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mad World - International Version",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Mad_World_-_International_Version_ONE_OK_ROCK.txt"
+    }
+  ]
+}
